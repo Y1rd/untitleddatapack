@@ -1,0 +1,16 @@
+{
+  "config": {
+    "features": [
+      {
+        "feature": "lostworld:trees/birch_tree",
+        "chance": 0.2
+      },
+      {
+        "feature": "lostworld:trees/fancy_oak_tree",
+        "chance": 0.1
+      }
+    ],
+    "default": "lostworld:trees/oak_tree"
+  },
+  "type": "minecraft:random_selector"
+}
