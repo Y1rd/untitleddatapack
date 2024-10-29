@@ -7,10 +7,18 @@
       },
       {
         "feature": "lostworld:trees/fancy_oak_tree",
-        "chance": 0.1
+        "chance": 0.17
+      },
+      {
+        "feature": "lostworld:trees/oak_tree",
+        "chance": 0.19
+      },
+      {
+        "feature": "lostworld:trees/oak_tree_fallen",
+        "chance": 0.03
       }
     ],
-    "default": "lostworld:trees/oak_tree"
+    "default": "lostworld:none"
   },
   "type": "minecraft:random_selector"
 }
