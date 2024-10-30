@@ -71,7 +71,7 @@
     [
       "lostworld:vegatation/dirt_patch",
       "minecraft:glow_lichen",
-      "minecraft:forest_flowers",
+      "lostworld:vegatation/forest_flowers",
       "lostworld:vegatation/trees_forest",
       "lostworld:vegatation/flower_default",
       "minecraft:brown_mushroom_normal",
