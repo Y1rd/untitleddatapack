@@ -2,19 +2,19 @@
   "config": {
     "features": [
       {
-        "feature": "lostworld:trees/birch_tree",
+        "feature": "lostworld:tree/birch_tree",
         "chance": 0.2
       },
       {
-        "feature": "lostworld:trees/fancy_oak_tree",
+        "feature": "lostworld:tree/fancy_oak_tree",
         "chance": 0.17
       },
       {
-        "feature": "lostworld:trees/oak_tree",
+        "feature": "lostworld:tree/oak_tree",
         "chance": 0.19
       },
       {
-        "feature": "lostworld:trees/oak_tree_fallen",
+        "feature": "lostworld:tree/oak_tree_fallen",
         "chance": 0.03
       }
     ],

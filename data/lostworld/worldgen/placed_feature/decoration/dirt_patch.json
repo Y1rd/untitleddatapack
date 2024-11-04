@@ -1,5 +1,5 @@
 {
-  "feature": "lostworld:vegatation/dirt_patch",
+  "feature": "lostworld:decoration/dirt_patch",
   "placement": [
     {
       "type": "minecraft:count",

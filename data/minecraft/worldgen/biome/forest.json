@@ -69,16 +69,17 @@
       "minecraft:spring_lava"
     ],
     [
-      "lostworld:vegatation/dirt_patch",
+      "lostworld:decoration/dirt_patch",
       "minecraft:glow_lichen",
-      "lostworld:vegatation/forest_flowers",
-      "lostworld:vegatation/trees_forest",
-      "lostworld:vegatation/flower_default",
+      "minecraft:patch_tall_grass_2",
+      "lostworld:decoration/forest_flowers",
+      "lostworld:tree_configuration/trees_forest",
+      "lostworld:decoration/flower_default",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
-      "lostworld:vegatation/grass_forest"
+      "lostworld:grass/grass_forest"
     ],
     [
       "minecraft:freeze_top_layer"

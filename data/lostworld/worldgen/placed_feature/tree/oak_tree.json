@@ -1,5 +1,5 @@
 {
-  "feature": "lostworld:trees/oak_tree_fallen",
+  "feature": "lostworld:tree/oak_tree",
   "placement": [
     {
       "predicate": {

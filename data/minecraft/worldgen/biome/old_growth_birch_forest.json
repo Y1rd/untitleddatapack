@@ -70,14 +70,15 @@
     ],
     [
       "minecraft:glow_lichen",
+      "minecraft:patch_tall_grass_2",
       "minecraft:forest_flowers",
       "minecraft:birch_tall",
-      "lostworld:vegatation/flower_default",
+      "lostworld:decoration/flower_default",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
-      "lostworld:vegatation/grass_forest"
+      "lostworld:grass/grass_forest"
     ],
     [
       "minecraft:freeze_top_layer"

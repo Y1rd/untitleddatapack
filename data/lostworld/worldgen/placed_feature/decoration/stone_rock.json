@@ -1,5 +1,5 @@
 {
-  "feature": "lostworld:vegatation/stone_rock",
+  "feature": "lostworld:decoration/stone_rock",
   "placement": [
     {
       "type": "minecraft:count",
