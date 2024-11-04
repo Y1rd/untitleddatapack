@@ -6,7 +6,7 @@
       "block_search_extent": 8,
       "offset": 2.0
     },
-    "sky_color": 8037887,
+    "sky_color": 7907327,
     "fog_color": 12638463,
     "water_color": 4159204,
     "water_fog_color": 329011
@@ -70,14 +70,14 @@
     ],
     [
       "minecraft:glow_lichen",
-      "minecraft:forest_flowers",
-      "minecraft:trees_birch",
-      "minecraft:flower_default",
+      "minecraft:trees_plains",
+      "minecraft:flower_plains",
+      "lostworld:vegatation/dirt_patch_extreme",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
-      "lostworld:vegatation/grass_forest"
+      "lostworld:vegatation/grass_plains"
     ],
     [
       "minecraft:freeze_top_layer"
@@ -158,6 +158,18 @@
         "weight": 8,
         "minCount": 4,
         "maxCount": 4
+      },
+      {
+        "type": "minecraft:horse",
+        "weight": 5,
+        "minCount": 2,
+        "maxCount": 6
+      },
+      {
+        "type": "minecraft:donkey",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 3
       }
     ],
     "ambient": [
@@ -183,7 +195,7 @@
   },
   "spawn_costs": {},
   "precipitation": "rain",
-  "temperature": 0.6,
-  "downfall": 0.6,
-  "category": "forest"
+  "temperature": 0.8,
+  "downfall": 0.4,
+  "category": "plains"
 }
