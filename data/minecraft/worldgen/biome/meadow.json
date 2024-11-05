@@ -6,9 +6,15 @@
       "block_search_extent": 8,
       "offset": 2.0
     },
-    "sky_color": 8037887,
+    "music": {
+      "sound": "minecraft:music.overworld.meadow",
+      "min_delay": 12000,
+      "max_delay": 24000,
+      "replace_current_music": false
+    },
+    "sky_color": 8103167,
     "fog_color": 12638463,
-    "water_color": 4159204,
+    "water_color": 937679,
     "water_fog_color": 329011
   },
   "carvers": {
@@ -61,9 +67,12 @@
       "minecraft:underwater_magma",
       "minecraft:disk_sand",
       "minecraft:disk_clay",
-      "minecraft:disk_gravel"
+      "minecraft:disk_gravel",
+      "minecraft:ore_emerald"
     ],
-    [],
+    [
+      "minecraft:ore_infested"
+    ],
     [
       "minecraft:spring_water",
       "minecraft:spring_lava"
@@ -71,15 +80,9 @@
     [
       "minecraft:glow_lichen",
       "minecraft:patch_tall_grass_2",
-      "minecraft:forest_flowers",
-      "lostworld:tree_configuration/trees_birch_forest",
-      "minecraft:flower_default",
-      "minecraft:brown_mushroom_normal",
-      "minecraft:red_mushroom_normal",
-      "minecraft:patch_sugar_cane",
-      "minecraft:patch_pumpkin",
-      "lostworld:grass/grass_forest",
-      "lostworld:decoration/stone_rock"
+      "minecraft:flower_meadow",
+      "minecraft:trees_meadow",
+      "lostworld:grass/grass_plains"
     ],
     [
       "minecraft:freeze_top_layer"
@@ -138,27 +141,21 @@
     ],
     "creature": [
       {
+        "type": "minecraft:donkey",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 2
+      },
+      {
+        "type": "minecraft:rabbit",
+        "weight": 2,
+        "minCount": 2,
+        "maxCount": 6
+      },
+      {
         "type": "minecraft:sheep",
-        "weight": 12,
-        "minCount": 4,
-        "maxCount": 4
-      },
-      {
-        "type": "minecraft:pig",
-        "weight": 10,
-        "minCount": 4,
-        "maxCount": 4
-      },
-      {
-        "type": "minecraft:chicken",
-        "weight": 10,
-        "minCount": 4,
-        "maxCount": 4
-      },
-      {
-        "type": "minecraft:cow",
-        "weight": 8,
-        "minCount": 4,
+        "weight": 2,
+        "minCount": 2,
         "maxCount": 4
       }
     ],
@@ -185,7 +182,7 @@
   },
   "spawn_costs": {},
   "precipitation": "rain",
-  "temperature": 0.6,
-  "downfall": 0.6,
-  "category": "forest"
+  "temperature": 0.5,
+  "downfall": 0.8,
+  "category": "mountain"
 }

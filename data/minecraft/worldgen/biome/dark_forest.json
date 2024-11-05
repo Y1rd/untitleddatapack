@@ -72,7 +72,7 @@
     [
       "minecraft:glow_lichen",
       "minecraft:patch_tall_grass_2",
-      "minecraft:dark_forest_vegetation",
+      "lostworld:tree_configuration/trees_dark_forest",
       "lostworld:decoration/forest_flowers",
       "lostworld:decoration/flower_default",
       "minecraft:brown_mushroom_normal",

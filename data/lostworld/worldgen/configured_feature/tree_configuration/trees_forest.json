@@ -3,15 +3,15 @@
     "features": [
       {
         "feature": "lostworld:tree/birch_tree",
-        "chance": 0.2
+        "chance": 0.23
       },
       {
         "feature": "lostworld:tree/fancy_oak_tree",
-        "chance": 0.17
+        "chance": 0.27
       },
       {
         "feature": "lostworld:tree/oak_tree",
-        "chance": 0.19
+        "chance": 0.25
       },
       {
         "feature": "lostworld:tree/oak_tree_fallen",

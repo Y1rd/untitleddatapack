@@ -35,7 +35,7 @@
                             }
                         },
                         {
-                            "chance": 0.15,
+                            "chance": 0.1,
                             "feature": {
                                 "feature": {
                                     "type": "minecraft:simple_block",
